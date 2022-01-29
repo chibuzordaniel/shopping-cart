@@ -1,0 +1,166 @@
+@media (max-width: 768px){
+
+    .shopping-cart h2 img{
+        padding-left: 45px;
+    }
+    
+    .head svg{
+        margin-left: -70px;
+    }
+    
+    
+    
+    
+    .shopping-cart-navbar{
+        width: 110%;
+    }
+    
+    .footer-cart-background{
+        margin-top: 1700px;
+        width: 110%;
+        height: 900px;
+        
+    }
+    
+    .shopping-cart-courses{
+        display: none;
+        
+    }
+    
+    
+    .shopping-cart-course h3{
+        font-size: 34px;
+    }
+    
+    
+    .cart-footer{
+      padding-left: 50px;
+    }
+    
+    
+    
+    
+    .cart-footer h3 {
+      font-size: 35px;
+    }
+    
+    .cart-footer h4{
+        font-size: 17px;
+    }
+    
+    
+    .cart-footer-flex{
+        display: block;
+        
+    }
+    
+    
+    
+    .cart-placeholder{
+        width: 262px;
+        font-size: 18px;
+    }
+    
+    .shop-course{
+        padding-left: 105px;
+    }
+     
+    .shop-course h3{
+     width: 300px;
+    }
+    
+    
+    .shopping-cart-course h3{
+      margin-left: 45px;  
+    }
+    
+    .shopping-cart-course h2{
+        margin-left: 45px;
+    }
+    
+    .cart-submit-background{
+        margin-left: 45px;
+        width: 400px;
+    }
+    
+    .footer-design{
+     font-size: 20px;
+    }
+    
+    
+    
+    
+    }
+    
+    
+    @media (max-width: 500px) {
+    
+    
+        .shopping-cart-shop h2 {
+            padding-left: 130px;
+            font-size: 30px;
+            width: 400px;
+            
+        }
+    
+        .contain{
+          height: 385px;
+          width: 360px;
+        }
+    
+        .shopping-cart-course h3{
+            margin-left: 45px;  
+            font-size: 30px;
+            width: 400px;
+          }
+    
+        
+        
+    
+    
+        .tikk{
+            height: 80px;
+        }
+    
+    
+        .shopping-navbar{
+            width: 500px;
+        }
+    
+    
+        .head:before{
+            position: absolute;
+            right: 28px;
+        }
+    
+    
+        .cart-cont-flex{
+            margin-left: 20px;
+        }
+    
+    
+        .cart-footer h3{
+          font-size: 30px;
+        }
+    
+    
+        .cart-footer h4{
+            font-size: 14px;
+        }
+    
+    
+        .footer-cart-background{
+            margin-top: 1920px;
+            width: 500px;
+        }
+    
+        .footer-design{
+            padding-left: 90px;
+            width: 400px;
+        }
+    
+    
+    
+    }
+    
+    
